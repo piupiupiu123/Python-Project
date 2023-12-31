@@ -5,5 +5,6 @@ As an AI developer, I will leverage the OpenAI API to classify companies into se
 Two CSV files containing Nasdaq-100 stock information:
 
 nasdaq100.csv: contains information about companies in the index such as symbol, name, etc.
+
 nasdaq100_price_change.csv: contains price changes per stock across periods including (but not limited to) one day, five days, one month, six months, one year, etc.
 
